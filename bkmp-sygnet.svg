@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="136 130 186 213" role="img" aria-label="BKMP">
+<defs>
+<linearGradient id="bk1" gradientUnits="userSpaceOnUse" x1="236.4598" y1="230.262" x2="141" y2="230.262"><stop offset="0" stop-color="#CDECA9" stop-opacity="0.75"/><stop offset="1" stop-color="#A9C486"/></linearGradient>
+<linearGradient id="bk2" gradientUnits="userSpaceOnUse" x1="286.1592" y1="269.6119" x2="242.7265" y2="244.536"><stop offset="0" stop-color="#B1E7EF"/><stop offset="1" stop-color="#45ACFF" stop-opacity="0.85"/></linearGradient>
+<linearGradient id="bk3" gradientUnits="userSpaceOnUse" x1="310.4206" y1="298.8135" x2="257.0172" y2="267.9811"><stop offset="0" stop-color="#B1E7EF"/><stop offset="1" stop-color="#45ACFF" stop-opacity="0.85"/></linearGradient>
+<linearGradient id="bk4" gradientUnits="userSpaceOnUse" x1="271.1916" y1="233.9959" x2="186.9334" y2="233.9959"><stop offset="0" stop-color="#CDECA9" stop-opacity="0.75"/><stop offset="1" stop-color="#A9C486"/></linearGradient>
+</defs>
+<path fill="url(#bk1)" d="M192.4,285.6c4.4,10.3,12.8,22.6,14.6,39.9l-66-38.1V185.8l88-50.8l7.5,4.3C182.9,216.5,181.4,259.8,192.4,285.6z"/>
+<path fill="url(#bk2)" d="M317,185.8v30.4c-44,22.5-60.3,46.1-65.4,66.1c-3.3,12.8-3.8,31-18.1,48.4c-1.9,2.4-4,4.5-6.2,6.6l-6.8-3.9c3.9-4.3,7.3-9.1,10.1-14.4c10.4-19.9,7.2-37.9,7.8-51c1-23.2,14.8-53.5,65.6-89.6L317,185.8z"/>
+<path fill="url(#bk3)" d="M317,216.2v71.2l-88,50.8l-1.7-1c2.2-2,4.2-4.2,6.2-6.6c14.3-17.3,14.8-35.6,18.1-48.4C256.7,262.3,273,238.7,317,216.2z"/>
+<path fill="url(#bk4)" d="M213.2,270c1.9,13,8.4,30.1,1.9,51.6c-0.7,2.4-1.6,4.8-2.6,7.1l-5.5-3.2c-1.9-17.3-10.2-29.6-14.6-39.9c-11-25.9-9.5-69.2,44.1-146.3l34.7,20.1C219,209.8,209.6,245.3,213.2,270z"/>
+</svg>
